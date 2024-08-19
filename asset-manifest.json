@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Sample-Repo/static/css/main.6154ff71.css",
+    "main.js": "/Sample-Repo/static/js/main.67407bdf.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Sample-Repo/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Sample-Repo/static/js/787.1ed0c42c.chunk.js",
+    "static/media/SC.png": "/Sample-Repo/static/media/SC.1cbcc6278edbf95a3b3e.png",
+    "static/media/space4.png": "/Sample-Repo/static/media/space4.edcd8c80ea31cd27b37b.png",
+    "static/media/space2.png": "/Sample-Repo/static/media/space2.edb5a01c8b7d78a3693f.png",
+    "static/media/space3.png": "/Sample-Repo/static/media/space3.edb5a01c8b7d78a3693f.png",
+    "static/media/astronut.png": "/Sample-Repo/static/media/astronut.930740b145b654983297.png",
+    "static/media/emoion.png": "/Sample-Repo/static/media/emoion.dcdbcbb739a6123ce0b9.png",
+    "static/media/Divvy-bikes.jpg": "/Sample-Repo/static/media/Divvy-bikes.88fbb68e693643acbc9c.jpg",
+    "static/media/home-main.svg": "/Sample-Repo/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Sample-Repo/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Sumukh.pdf": "/Sample-Repo/static/media/Sumukh.b68c1662483f30ab723e.pdf",
+    "static/media/music-streaming.png": "/Sample-Repo/static/media/music-streaming.3498944c1f9ddf700eb4.png",
+    "static/media/_.jpeg": "/Sample-Repo/static/media/_.1c96cbd69001b286fa82.jpeg",
+    "static/media/new_logo.webp": "/Sample-Repo/static/media/new_logo.c6935d1ba5c2d865f165.webp",
+    "static/media/avatar.svg": "/Sample-Repo/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/movie-review.avif": "/Sample-Repo/static/media/movie-review.dfef6a9ee9928ffcaa2d.avif",
+    "static/media/pre.svg": "/Sample-Repo/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Sample-Repo/index.html",
+    "main.6154ff71.css.map": "/Sample-Repo/static/css/main.6154ff71.css.map",
+    "main.67407bdf.js.map": "/Sample-Repo/static/js/main.67407bdf.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Sample-Repo/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Sample-Repo/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6154ff71.css",
+    "static/js/main.67407bdf.js"
+  ]
+}
